@@ -7,3 +7,6 @@ def first(a):
 
 def last(a):
     return a[-1]
+
+def average(a):
+    return max(a)/len(a)
